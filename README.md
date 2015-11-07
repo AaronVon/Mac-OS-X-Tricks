@@ -1,4 +1,4 @@
-My Awesome Book
-=======
+高效使用 Mac OS X
+================
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+汇总 Mac OS X 操作系统的使用使用技巧。
