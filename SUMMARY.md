@@ -4,3 +4,6 @@
 	* [鼠标报告 - Mouse Reporting](/content/terminal/mouse-reporting/index.md)
 	* [标记书签 - Marks Bookmarks](/content/terminal/marks-bookmarks/index.md)
 * [时间机器 - Time Machine](/content/time-machine/index.md)
+	* [设置 Time Machine 并备份](/content/time-machine/how-to-backup/index.md)  
+	* [从 Time Machine 备份进行恢复](/content/time-machine/recover/index.md)  
+* [使用 Windows - Work with Windows](/content/work-with-windows/index.md)
