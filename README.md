@@ -31,4 +31,4 @@
 
 协议
 ----
-遵循 MIT 协议。
+遵循 BY-NC-ND 4.0 协议。想了解更多信息，请查看 [Attribution-NonCommercial-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nc-nd/4.0/)。
