@@ -1,5 +1,5 @@
 #如何设置 Time Machine 并备份  
-> 作者：[AaronVon](https://github.com/AaronVon)    
+> 作者：[AaronVon](http://blog.fullthrottle.info)    
   
 ![](time-machine-screenshot.png)  
 

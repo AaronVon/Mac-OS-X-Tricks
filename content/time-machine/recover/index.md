@@ -1,5 +1,5 @@
 #从 Time Machine 备份进行恢复  
-> 作者：[AaronVon](https://github.com/AaronVon)    
+> 作者：[AaronVon](http://blog.fullthrottle.info)    
  
 OS X Lion 及更高版本包含 OS X 恢复功能。此功能提供了重新安装 OS X、修复磁盘甚至从 Time Machine 备份恢复所需的所有工具。    
 
