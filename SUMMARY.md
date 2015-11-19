@@ -8,4 +8,6 @@
 	* [从 Time Machine 备份进行恢复](/content/time-machine/recover/index.md)  
 * [使用 Windows - Work with Windows](/content/work-with-windows/index.md)
 	* [Boot Camp](/content/work-with-windows/bootcamp/index.md)
-	* [虚拟机安装 Windows](/content/work-with-windows/virtual-machine/parallels-desktop/index.md)
+	* [虚拟机安装 Windows](/content/work-with-windows/virtual-machine/index.md)
+		* [Parallels Desktop](/content/work-with-windows/virtual-machine/parallels-desktop/index.md)
+		* [VMware 和 VirtualBox](/content/work-with-windows/virtual-machine/vmware-and-virtualbox/index.md)
